@@ -48,9 +48,4 @@ Learn how to use structures for data management
 
 Implement file handling for permanent data storage
 
-Build a real-world console application
 
-
-Write a professional resume-style README
-
-Just tel
